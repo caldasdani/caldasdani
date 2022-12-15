@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caldasdani
 - 👀 I’m interested in learning the max possible
-- 🌱 I’m currently learning and living 
+- 🌱 I’m currently working in lyncas.net
 - From RJ/Brasil. vasco da gama.
 
 <!---
