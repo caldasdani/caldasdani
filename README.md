@@ -2,10 +2,11 @@
 Atualmente atuo como desenvolvedor de Software Jr na <a href="https://lyncas.net">Lyncas</a>.
 
 <div align="center">
-	<img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=caldasdani&show_icons=true&theme=radical"/> 
-	<img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caldasdani&layout=compact&theme=radical"/> 
+	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caldasdani&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117"/> 
+	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caldasdani&layout=compact&hide_border=true&theme=radical&bg_color=0d1117"/> 
 </div>
 
+<br>
 <div align="center">
 	<strong>Estou aprendendo e utilizando:</strong><br>
 	<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
