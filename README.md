@@ -1,9 +1,9 @@
 ## Olá, eu sou o Daniel Caldas 👋
 Atualmente atuo como desenvolvedor de Software Jr na <a href="https://lyncas.net">Lyncas</a>.
 
-<div align="center"> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caldasdani&show_icons=true&theme=radical"/>  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caldasdani&layout=compact&theme=radical"/> 
+<div>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caldasdani&show_icons=true&theme=radical"/> 
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caldasdani&layout=compact&theme=radical"/> 
 </div>
 
 <div align="center">
